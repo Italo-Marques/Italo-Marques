@@ -2,7 +2,7 @@
 - 👀 Estou interessado em desenvolvimento web e análise de dados.
 - 🌱 Atualmente estou aprendendo JavaScript, Python e melhores práticas de desenvolvimento de software.
 - 💞️ Estou buscando colaborar em projetos de código aberto e melhorar minhas habilidades em programação.
-- 📫 Como me encontrar: italomarques.dev@gmail.com
+- 📫 Como me encontrar: italomarques249@gmail.com
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Estou sempre em busca de aprender novas tecnologias e aprimorar meu código!
 
