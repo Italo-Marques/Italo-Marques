@@ -1,11 +1,27 @@
-- 👋 Olá, eu sou o @Italo-Marques
-- 👀 Estou interessado em desenvolvimento web e análise de dados.
-- 🌱 Atualmente estou aprendendo JavaScript, Python e melhores práticas de desenvolvimento de software.
-- 💞️ Estou buscando colaborar em projetos de código aberto e melhorar minhas habilidades em programação.
-- 📫 Como me encontrar: https://www.instagram.com/italo_marques_barreto/?__pwa=1
-- 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Estou sempre em busca de aprender novas tecnologias e aprimorar meu código!
+👋 Prazer, eu sou o Ítalo Marques
 
+Aprendiz de Front-end | HTML • CSS • JavaScript
+
+Sobre mim
+
+Entusiasta de desenvolvimento front-end, focado em criar interfaces limpas, responsivas e centradas no usuário. Estou em constante evolução, sempre buscando aprimorar minhas habilidades e adotar as melhores práticas da área.
+
+O que estou aprendendo
+
+Construção de layouts modernos com HTML e CSS
+
+Interatividade e lógica com JavaScript
+
+Boas práticas de desenvolvimento e organização de código
+
+Como posso contribuir
+
+Gosto de colaborar em projetos que envolvem design, usabilidade e experiência do usuário. Meu objetivo é transformar ideias em interfaces funcionais e visualmente atraentes.
+
+Contato
+
+📩 Instagram: italo_marques_barreto
+😄 Pronomes: Ele/Dele
 
 <!---
 Italo-Marques/Italo-Marques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
