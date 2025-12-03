@@ -14,10 +14,6 @@ Interatividade e lógica com JavaScript
 
 Boas práticas de desenvolvimento e organização de código
 
-Como posso contribuir
-
-Gosto de colaborar em projetos que envolvem design, usabilidade e experiência do usuário. Meu objetivo é transformar ideias em interfaces funcionais e visualmente atraentes.
-
 Contato
 
 📩 Instagram: italo_marques_barreto
