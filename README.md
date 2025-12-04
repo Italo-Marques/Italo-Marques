@@ -1,5 +1,4 @@
-👋 Prazer, eu sou o Ítalo Marques
-Programador Front-end | HTML • CSS • JavaScript
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=40&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Italo+Marques;Programador+Front-End;+Brazil+🇧🇷)
 
 Sobre mim
 
