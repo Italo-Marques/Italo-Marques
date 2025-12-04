@@ -19,7 +19,13 @@ Boas práticas de desenvolvimento e organização de código.
   <img align="center" alt="Italo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Italo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Italo-vscode" height="30" width="40" src="https://skillicons.dev/icons?i=vscode">
+  <img align="center" alt="Italo-github" height="30" width="40" src="https://skillicons.dev/icons?i=github">
+   <img align="center" alt="Italo-windows" height="30" width="40" src="https://skillicons.dev/icons?i=windows">
+</div>
+
   ##
  
 <div> 
